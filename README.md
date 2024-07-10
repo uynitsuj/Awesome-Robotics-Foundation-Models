@@ -150,6 +150,8 @@ If you find this repository helpful, please consider citing:
 ### Object Representations
 * Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation [[Paper]](https://arxiv.org/abs/2112.05124)[[Project]](https://yilundu.github.io/ndf/)
 * Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation [[Paper]](https://arxiv.org/abs/2308.07931)[[Project]](https://f3rm.github.io/)
+* ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization [[Paper]](https://arxiv.org/pdf/2207.13691)[[Project]](https://zubair-irshad.github.io/projects/ShAPO.html) [[Code]](https://github.com/zubair-irshad/shapo)
+* CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [[Paper]](https://arxiv.org/pdf/2203.01929)[[Project]](https://zubair-irshad.github.io/projects/CenterSnap.html) [[Code]](https://github.com/zubair-irshad/CenterSnap)
 * You Only Look at One: Category-Level Object Representations for Pose Estimation From a Single Example [[Paper]](https://arxiv.org/abs/2305.12626)
 * Zero-Shot Category-Level Object Pose Estimation [[Paper]](https://arxiv.org/abs/2204.03635)[[Code]](https://github.com/applied-ai-lab/zero-shot-pose)
 * VIOLA: Imitation Learning for Vision-Based Manipulation with Object Proposal Priors [[Paper]](https://arxiv.org/abs/2210.11339)[[Project]](https://ut-austin-rpl.github.io/VIOLA/)[[Code]](https://github.com/UT-Austin-RPL/VIOLA)
